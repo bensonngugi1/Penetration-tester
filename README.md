@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Benson Ngugi
 
 ## 🧠 About Me
 I'm an aspiring **Cybersecurity / Penetration Tester** currently learning how to identify and exploit web application vulnerabilities.  
