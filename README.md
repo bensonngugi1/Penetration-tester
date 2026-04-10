@@ -30,7 +30,7 @@ I enjoy breaking things (ethically) to understand how they work and how to secur
 - Build strong technical reporting skills
 
 ## Contact
-- GitHub: github.com/bensonngugi1/
+- GitHub: github.com/bensonngugi1
 - Email: bensonngugia@gmail.com
 
 ## Fun Fact
