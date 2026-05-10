@@ -112,8 +112,9 @@ admin' --
 * Display of all items including unreleased ones.
 * Authetication bypass.
   
-[Display of all items](/home/jargon/Documents/Cybersecurity/LABS/DOCUMENTATIONS/SQLI/SCREENSHOTS/Screenshot_20260510_114711.png)
-[Authetication bypass](/home/jargon/Documents/Cybersecurity/LABS/DOCUMENTATIONS/SQLI/SCREENSHOTS/Screenshot_20260510_115043.png)
+[Display of all items](SCREENSHOTS/Screenshot_20260510_114711.png)
+
+[Authetication bypass](SCREENSHOTS/Screenshot_20260510_115043.png)
 
 ### Reporting
 
